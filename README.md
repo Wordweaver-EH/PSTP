@@ -22,4 +22,4 @@ It has been widely replicated, with studies showing it can significantly increas
 * Modeling: Demonstrating hypnotic responses
 * Instructions: Guiding participants through hypnotic techniques
 
-This initiative, PSTP, aims to help cultivate phenomenal skills (phenomnelogical control skills, if you like more syllables) using those insights and others by treating "hypnotic" phenomena as skills. This requires us to have a basic understanding of factors underlying [skill acquisition]().
+This initiative, PSTP, aims to help cultivate phenomenal skills (phenomnelogical control skills, if you like more syllables) using those insights and others by treating "hypnotic" phenomena as skills. This requires us to have a basic understanding of factors underlying [skill acquisition](https://github.com/Wordweaver-EH/PSTP/blob/main/skillaqusitionreview.md).
