@@ -10,7 +10,7 @@ You get better at what you train for.
 
 * Caveat #1, specific skill training can translate to adjacent skills to some degree, variation also keeps things novel and challenging. 
 
-* Caveat #2, there are common factors.
+* Caveat #2, there are [common factors](common factors).
 
 Some things that can respond to training intervention are common factors that are foundational and further enable skills training endeavours. Motivation, goal consensus and collaboration, alliance, synchrony, beliefs and expectations, empathy, positive regard, etc.
 
@@ -28,28 +28,43 @@ https://masteraba.com/creating-a-meaningful-skill-acquisition-program-in-applied
 | **Video Modeling**                  | Video modeling involves presenting videos of desired behaviors or skills to individuals to learn by observing and imitating the modeled behaviors. It provides a visual demonstration and can be effective for individuals with strong visual learning preferences. | Video modeling is beneficial for teaching a wide range of skills, including social, communication, and daily living skills.                                                                                                             |
 | **Prompting and Prompt Fading**     | Prompting involves providing cues or assistance to guide individuals to the correct response. Prompt fading gradually reduces the intensity or frequency of prompts over time to promote independent responding. | Prompting and prompt fading techniques are effective for teaching new skills, promoting independent responding, and reducing prompt dependency.                                                                                         |
 
-Training principles according to Mike Israetel:
+Training principles according to Mike Israetel (focused on sport science):
 
 * Specificity
   
 > The most important principle, stating that training must be specific to your goals. You need to train in a way that directly improves the skills and adaptations you want to develop.
+
 * Overload
   
-> Training must be challenging enough to stimulate adaptation. It should be within your maximal threshold and progressively get harder over time.
+> Training must be challenging enough to stimulate adaptation. It should be within your maximal threshold and progressively get harder over time. This is adjacent to [Zone of Proximal Development](https://en.wikipedia.org/wiki/Zone_of_proximal_development). Getting a baseline measurement would be important.
+
 * Fatigue Management
   
-> Proper rest and recovery is crucial to allow adaptations to occur and prevent decreased performance from accumulated fatigue.
+> Proper rest and recovery is crucial to allow adaptations to occur and prevent decreased performance from accumulated fatigue. In PSTP, it would relate to mental fatigue and boredom. Eventual aim would be to move away from CSTP like single session intervention and make a progressive skill acquisition program. Skill acquisition consolidates during sleep.
+
 * SRA (Stimulus Recovery Adaptation)
   
 > Training provides a stimulus, adaptation occurs during recovery, then you can train again. Finding the right balance is key.
 
 * Variation
   
-> Some variation in training is needed to continue making progress, but too much can hinder specificity.
+> Some variation in training is needed to continue making progress, but too much can hinder specificity. Variation also inhibits boredom.
+
 * Phase Potentiation
   
-> Sequencing training phases to build upon each other and maximize long-term gains.
+> Sequencing training phases to build upon each other and maximize long-term gains. Here, sequencing would be about common factors, state of mind (affective), then automaticity (motor and cognitive) and then bottom up factors (perceptual).
 
 * Individual Differences
   
-> The principles apply to everyone, but need to be adjusted based on individual response and recovery abilities.
+> The principles apply to everyone, but need to be adjusted based on individual response and recovery abilities. Probably infeasible in the short term.
+
+----------
+
+Common modes of learning:
+
+* Classical or Pavlovian Conditioning
+* Operant or Instrumental Conditioning
+* Learning through immitation
+* Learning through instruction
+* Learning through reasoning
+
