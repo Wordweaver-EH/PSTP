@@ -2,15 +2,15 @@
 
 phenomenal
 
-adjective
+> adjective
 
-phe·​nom·​e·​nal fi-ˈnä-mə-nᵊl 
-
-a: known through the senses rather than through thought or intuition
-
-b: concerned with phenomena rather than with hypotheses
-
-c: EXTRAORDINARY, REMARKABLE
+> phe·​nom·​e·​nal fi-ˈnä-mə-nᵊl 
+>
+> a: known through the senses rather than through thought or intuition
+>
+> b: concerned with phenomena rather than with hypotheses
+>
+> c: EXTRAORDINARY, REMARKABLE
 -----------------------------------
 
 
