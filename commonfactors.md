@@ -7,9 +7,9 @@ According to a [biopsychosocial perspective](https://www.ncbi.nlm.nih.gov/pmc/ar
 
 These can be abbreviated to [CREAM](https://www.reddit.com/r/hypnosis/comments/18ret6y/context_rapport_expectation_absorption_and/) and further synthesized into 3Es:
 
-E – Emotion (Motivation+Rapport)
-E – Expectation (Context+Expectation)
-E – Engagement (Absorption+Rapport)
+* Emotion (Motivation+Rapport)
+* Expectation (Context+Expectation)
+* Engagement (Absorption+Rapport)
 
 The demand characteristics of the context here are folded into expectations, and rapport is split into two components, the first is affective regard between the dyad and the second is synchrony between the two. 
 These three factors also are key factors in theories of narrative and associative learning. While much of the CREAM factors are already set before the induction begins in a traditional hypnosis scenario, the 3Es can help impart narrative stimulus after the process has started.
