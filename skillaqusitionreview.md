@@ -10,7 +10,7 @@ You get better at what you train for.
 
 * Caveat #1, specific skill training can translate to adjacent skills to some degree, variation also keeps things novel and challenging. 
 
-* Caveat #2, there are [common factors](common factors).
+* Caveat #2, there are [common factors](https://github.com/Wordweaver-EH/PSTP/blob/main/commonfactors.md).
 
 Some things that can respond to training intervention are common factors that are foundational and further enable skills training endeavours. Motivation, goal consensus and collaboration, alliance, synchrony, beliefs and expectations, empathy, positive regard, etc.
 
