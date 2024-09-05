@@ -22,5 +22,5 @@ Understanding the alterations in the affective state can be guided by Mood and [
 ![Pleasure Arousal Dominance](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PAD_emotional_state_model_Page_1.png/1024px-PAD_emotional_state_model_Page_1.png)
 
 While the Dynamic Framework of Thought can begin to give us an inkling for the Cognitive and Null States:
-![Dynamic Framework of Thought Reworked](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PAD_emotional_state_model_Page_1.png/1024px-PAD_emotional_state_model_Page_1.png)
+![Dynamic Framework of Thought Reworked](https://github.com/Wordweaver-EH/PSTP/blob/main/images/DFTReworked.png)
 
