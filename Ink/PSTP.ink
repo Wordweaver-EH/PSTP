@@ -60,7 +60,7 @@ Engagement: Deeply engage with the role of being hypnotized.
 Let us start,
 * With a Smile
 
-- 
+- Notice how you are, now. Your posture, your breath, your everyday way of being. And I would like to invite you to now make a shift. To lean into this experience and really engage fully, with an open heart as we begin this experiment. It is a simple one, all you need to do is smile and pay attention to how that act makes you feel. 
 
 
 
