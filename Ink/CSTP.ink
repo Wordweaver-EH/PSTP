@@ -106,17 +106,45 @@ Imagine that your arm is like a balloon. Imagine that air is being pumped into i
 
 + [Your arm rises at least six inches]
     ~ arm_rising_score += 1
+    - You can relax your hand now.
+    -> hand_lock_pref1
+    
++ [Your arm rises less than six inches]
+    -> arm_rising_troubleshooting
+
+=== arm_rising_troubleshooting ===
+If you are having trouble raising your arm, try these helpful hints:
+- Take a deep breath and notice how your upper body moves. As you inhale, let your arm rise a bit, and on the exhalation, allow it to rest. Try raising it more on the next inhale.
+- Imagine your arm being pumped up with helium or attached to balloons. Some people find this easier to visualize. You can also imagine your arm floating in water or being lifted by a pulley or any other situation that might occur to you and resonate. It can often be good to be playful.
++ [Try Again]
+    -> arm_rising_retry
++ [Continue]
+    -> hand_lock_pref1
+
+=== arm_rising_retry ===
+Let's try the arm rising suggestion one more time. Remember to focus on the sensation of lightness and the image of your arm floating upward.
+
++ [Your arm rises at least six inches]
+    ~ arm_rising_score += 1
 + [Your arm rises less than six inches]
 
-- Good.
+- That's okay, you *are* fighting against gravity. Let's move on to the next suggestion.
++ [Continue]
+-> hand_lock_pref1
+
+=== hand_lock_pref1 ===
+The next suggestion is the hand-lock suggestion. It will tell you just what you are to make believe. It will initially tell you to fold your hands. Then it will tell you to imagine that your hands are really two hunks of steel that are welded together. Following this, the suggestion will challenge you to pull the hands apart. Despite this challenge, don't pull the hands apart. Instead, make believe that the hands are so tightly welded together that despite your best efforts, you simply cannot get them apart.
+
++ [Continue]
+-> hand_lock_pref2
+
+=== hand_lock_pref2 ===
+
+Remember what the hypnotic skill involves. You must let yourself become so deeply involved in the make-believe that it actually seems real. Do this by only imagining and thinking of things that are connected with the make-believe situation.
 + [Continue]
 -> hand_lock_model
 
 === hand_lock_model ===
-The next suggestion is the hand-lock suggestion. It will tell you just what you are to make believe. It will initially tell you to fold your hands. Then it will tell you to imagine that your hands are really two hunks of steel that are welded together. Following this, the suggestion will challenge you to pull the hands apart. Despite this challenge, don't pull the hands apart. Instead, make believe that the hands are so tightly welded together that despite your best efforts, you simply cannot get them apart.
-
-Remember what the hypnotic skill involves. You must let yourself become so deeply involved in the make-believe that it actually seems real. Do this by only imagining and thinking of things that are connected with the make-believe situation.
-
 (PLAY VIDEOTAPE OF MODEL)
 
 H: Place your hands on the table and clasp them together, interlacing the fingers. (PAUSE) Imagine that your hands are two pieces of steel that are welded together so that it is impossible to get them apart. They are two pieces of steel welded together. When I ask you to pull your hands apart, they'll be stuck and won’t come apart no matter how hard you try." (WAIT 20 SECONDS)
@@ -127,21 +155,49 @@ H: Okay, relax. Your hands are no longer stuck together. You can pull them apart
 -> hand_lock
 
 === hand_lock ===
-Place your hands on the table and clasp them together, interlacing the fingers. Imagine that your hands are two pieces of steel that are welded together so that it is impossible to get them apart. They are two pieces of steel welded together. When I ask you to pull your hands apart, they'll be stuck and won't come apart no matter how hard you try.
+Place your hands on the table and clasp them together, interlacing the fingers. Imagine that your hands are two pieces of steel that are welded together so that it is impossible to get them apart. They are two pieces of steel welded together. When I ask you to pull your hands apart, they'll be stuck and won't come apart no matter how hard you try until you count down till 20 seconds when they can relax.
+
+Remember to focus on the sensation of your hands being fused together, heavy and immovable. And start now.
+
++ [Your hands feel stuck together]
+    ~ hand_lock_score += 1
+    
+-> book_hallucination_model_pref1
++ [Your hands do not feel stuck together]
+-> hand_lock_troubleshooting
+
+=== hand_lock_troubleshooting ===
+If your hands don't feel stuck together, try focusing on these suggestions:
+- Imagine your hands as cold, heavy blocks of steel that are welded together. Feel the weight and the tightness in your hands.
+- Press down slightly with your fingers and palms to create a tension that reinforces the feeling of being stuck. The slight pressure will make it easier to feel like your hands cannot be separated.
+- Don't try too hard—let the feeling of being welded happen naturally without forcing it.
+
++ [Try Again]
+    -> hand_lock_retry
+
+=== hand_lock_retry ===
+Let's try the hand lock suggestion one more time. Remember to focus on the sensation of your hands being fused together, heavy and immovable.
 
 + [Your hands feel stuck together]
     ~ hand_lock_score += 1
 + [Your hands do not feel stuck together]
 
-- Good.
+- Let's move on to the next suggestion.
+-> book_hallucination_model_pref1
 
 + [Continue]
--> book_hallucination_model_pref
+-> book_hallucination_model_pref1
 
-=== book_hallucination_model_pref ===
+=== book_hallucination_model_pref1 ===
 The next suggestion will tell you that you see a book on the desk in front of you even though there is really no book there. The suggestion will start out by telling you to close your eyes and that the book is on the desk in front of you. It will suggest that you see the book once you open your eyes. The suggestion will then instruct you to open your eyes and actually see the book. 
+-> book_hallucination_model_pref2
+
+=== book_hallucination_model_pref2 ===
 
 In response to this suggestion, you are to make yourself see the book, and in addition, make believe that the book you are seeing is physically there and part of the natural setting of the room, not simply something you are artificially making appear. The main idea is to make the book you see seem like a natural part of the room. Just let yourself become totally involved in making believe that the book is really there.
+-> book_hallucination_model_pref3
+
+=== book_hallucination_model_pref3 ===
 
 There is another thing. Towards the end of the suggestion, you will be asked to push the book off to the side. This action is also part of the make-believe. Even as you do it, continue to make believe there is really a book there.
 + [Continue]
@@ -167,9 +223,33 @@ Place your hands on your lap and close your eyes. I'm not sure if you have notic
 
 + [You see the book]
     ~ book_hallucination_score += 1
+    -> suggestion_to_forget_model_pref_1
+    -The image of the book is now fading. It's faded completely and you no longer see the book.
++ [You do not see the book]
+-> book_hallucination_troubleshooting
+
+=== book_hallucination_troubleshooting ===
+If you are having trouble seeing the book, try these tips:
+- Picture a simple book or magazine that you are familiar with. You can even imagine a book from home or one you study with often. Simplify the cover if the details are too complex.
+- Focus on one detail at a time, such as the color of the cover, the title, or the position of the book on the table. Picture the book as clearly as possible.
+- Remember, it's like playing make-believe—act as though the book is really there, just like children pretending a lawn is divided into different rooms.
+
++ [Try Again]
+    -> book_hallucination_retry
+
+=== book_hallucination_retry ===
+Let's try the book hallucination suggestion one more time. Remember to focus on creating a vivid mental image of the book on the desk in front of you.
+
++ [You see the book]
+    ~ book_hallucination_score += 1
+    -The image of the book is now fading. It's faded completely and you no longer see the book.
+    
+-> suggestion_to_forget_model_pref_1
+
 + [You do not see the book]
 
-- Good.
+- Let's move on to the next suggestion.
+-> suggestion_to_forget_model_pref_1
 
 + [Continue]
 
@@ -218,18 +298,34 @@ M: Now that I think of the suggestions, I can remember them quite clearly.
 -> amnesia
 
 === amnesia ===
+# CLEAR
 As you recall, you were just given three suggestions. However, a funny thing is beginning to happen; the memory of these suggestions is fading, fading completely. In fact, you are totally unable to remember what these suggestions were. Nevertheless, I want you to try to remember them - even though this will be impossible.
+
++ [You cannot remember the suggestions]
+    ~ amnesia_score += 1
+    -> test_instructions
++ [You can remember the suggestions]
+    -> amnesia_troubleshooting
+
+=== amnesia_troubleshooting ===
+If you're having trouble forgetting the suggestions, try these techniques:
+- Focus on physical sensations like the tingling in your feet or body. Keep your mind distracted by focusing on these feelings rather than the suggestions.
+- Imagine the suggestions written on a chalkboard, and then picture yourself erasing the board completely. Each time a memory comes back, visualize it being wiped away again.
+- Remember, you're not supposed to try too hard—just let the memories fade naturally as you concentrate on other things.
+
++ [Try Again]
+    -> amnesia_retry
++ [Continue]
+    -> test_instructions
+
+=== amnesia_retry ===
+Let's try the amnesia suggestion one more time. Remember to focus on letting the memories of the previous suggestions fade away naturally.
 
 + [You cannot remember the suggestions]
     ~ amnesia_score += 1
 + [You can remember the suggestions]
 
-- Now, let's watch a video of a subject responding to this suggestion.
-
-[Transcript of video]
-M: It's funny. I can't seem to remember any of the suggestions. All I can feel is a real heaviness all over my body, but especially in my feet. My feet are tingling, they're just heavy and tingling. It's a funny sensation. It feels kind of nice. It reminds me of lying on the beach, letting the sun tan my body. Watching the people go by and the children ....
-
-+ [Continue]
+- Let's move on to the test suggestions.
 -> test_instructions
 
 === test_instructions ===

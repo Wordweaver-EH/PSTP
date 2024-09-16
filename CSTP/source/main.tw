@@ -1,0 +1,95 @@
+:: Book_Hallucination_Retry
+<<if $book_hallucination_attempts < 2>>
+Let's try the book hallucination suggestion one more time. Remember to focus on creating a vivid mental image of the book on the desk in front of you.
+
+[[You see the book|Book_Hallucination_Helpful_Hints]]
+<<set $book_hallucination_score to $book_hallucination_score + 1>>
+-The image of the book is now fading. It's faded completely and you no longer see the book.
+
+[[You do not see the book|Book_Hallucination_Helpful_Hints]]
+<<else>>
+That's okay, this suggestion can be challenging. Let's move on to the next one.
+[[Continue|Book_Hallucination_Helpful_Hints]]
+<</if>>
+
+:: Book_Hallucination_Helpful_Hints
+If you are having trouble seeing the book, try these tips:
+- Picture a simple book or magazine that you are familiar with. You can even imagine a book from home or one you study with often. Simplify the cover if the details are too complex.
+- Focus on one detail at a time, such as the color of the cover, the title, or the position of the book on the table. Picture the book as clearly as possible.
+- Remember, it's like playing make-believe—act as though the book is really there, just like children pretending a lawn is divided into different rooms.
+- Imagine the texture and weight of the book. Think about how it would feel to touch and move it.
+
+[[Try Again|Book_Hallucination_Retry]]
+[[Continue|Suggestion_To_Forget_Model_Pref_1]]
+
+:: Arm_Rising_Retry
+<<if $arm_rising_attempts < 2>>
+Let's try the arm rising suggestion one more time. Remember to focus on the sensation of lightness and the image of your arm floating upward.
+
+[[Your arm rises at least six inches|Arm_Rising_Score]]
+[[Your arm rises less than six inches|Arm_Rising_Troubleshooting]]
+<<else>>
+That's okay, you *are* fighting against gravity. Let's move on to the next suggestion.
+[[Continue|Arm_Rising_Helpful_Hints]]
+<</if>>
+
+:: Arm_Rising_Helpful_Hints
+If you are having trouble raising your arm, try these helpful hints:
+- Take a deep breath and notice how your upper body moves. As you inhale, let your arm rise a bit, and on the exhalation, allow it to rest. Try raising it more on the next inhale.
+- Imagine your arm being pumped up with helium or attached to balloons. Some people find this easier to visualize. You can also imagine your arm floating in water or being lifted by a pulley or any other situation that might occur to you and resonate. It can often be good to be playful.
+- Focus on the sensation of lightness in your arm. Imagine it getting lighter and lighter until it feels like it is floating up by itself.
+- Keep your arm relaxed and loose. Tension can make it feel heavier, so try to keep it as light and relaxed as possible.
+
+[[Try Again|Arm_Rising_Retry]]
+[[Continue|Hand_Lock_Pref1]]
+
+:: Hand_Lock_Retry
+<<if $hand_lock_attempts < 2>>
+Let's try the hand lock suggestion one more time. Remember to focus on the sensation of your hands being fused together, heavy and immovable.
+
+[[Your hands feel stuck together|Hand_Lock_Score]]
+[[Your hands do not feel stuck together|Hand_Lock_Troubleshooting]]
+<<else>>
+Let's move on to the next suggestion.
+[[Continue|Hand_Lock_Helpful_Hints]]
+<</if>>
+
+:: Hand_Lock_Helpful_Hints
+If your hands don't feel stuck together, try focusing on these suggestions:
+- Imagine your hands as cold, heavy blocks of steel that are welded together. Feel the weight and the tightness in your hands.
+- Press down slightly with your fingers and palms to create a tension that reinforces the feeling of being stuck. The slight pressure will make it easier to feel like your hands cannot be separated.
+- Don't try too hard—let the feeling of being welded happen naturally without forcing it.
+- Visualize your hands being glued together or bound by heavy string or chains. Imagine the sensation of the glue or bindings holding your hands together tightly.
+
+[[Try Again|Hand_Lock_Retry]]
+[[Continue|Book_Hallucination_Model_Pref1]]
+
+:: Amnesia_Retry
+<<if $amnesia_attempts < 2>>
+Let's try the amnesia suggestion one more time. Remember to focus on letting the memories of the previous suggestions fade away naturally.
+
+[[You cannot remember the suggestions|Amnesia_Score]]
+[[You can remember the suggestions|Amnesia_Troubleshooting]]
+<<else>>
+That's okay, this suggestion can be challenging. Let's move on to the test suggestions.
+[[Continue|Test_Instructions]]
+<</if>>
+
+:: Amnesia_Troubleshooting
+<<set $amnesia_attempts to $amnesia_attempts + 1>>
+If you're having trouble forgetting the suggestions, try these techniques:
+- Focus on physical sensations like the tingling in your feet or body. Keep your mind distracted by focusing on these feelings rather than the suggestions.
+- Imagine the suggestions written on a chalkboard, and then picture yourself erasing the board completely. Each time a memory comes back, visualize it being wiped away again.
+- Remember, you're not supposed to try too hard—just let the memories fade naturally as you concentrate on other things.
+
+[[Try Again|Amnesia_Retry]]
+[[Continue|Test_Instructions]]
+
+:: Amnesia_Helpful_Hints
+If you're having trouble forgetting the suggestions, try these tips:
+- Focus on physical sensations like the tingling in your feet or body. Keep your mind distracted by focusing on these feelings rather than the suggestions.
+- Imagine the suggestions written on a chalkboard, and then picture yourself erasing the board completely. Each time a memory comes back, visualize it being wiped away again.
+- Remember, you're not supposed to try too hard—just let the memories fade naturally as you concentrate on other things.
+
+[[Try Again|Amnesia_Retry]]
+[[Continue|Test_Instructions]]

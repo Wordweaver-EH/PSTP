@@ -1,0 +1,539 @@
+:: Arm_Rising_Score
+<<set $arm_rising_score to $arm_rising_score + 1>>
+<<set $arm_rising_subjective to 0>>
+How would you rate your experience of the arm rising suggestion?
+
+[[It felt completely real and involuntary|Arm_Rising_Subjective_A]]
+[[It felt somewhat real and involuntary|Arm_Rising_Subjective_B]]
+[[It felt somewhat voluntary but I was surprised by how real it felt|Arm_Rising_Subjective_C]]
+[[It felt completely voluntary|Arm_Rising_Subjective_D]]
+
+:: Arm_Rising_Subjective_A
+<<set $arm_rising_subjective to 3>>
+[[Continue|Arm_Rising_Helpful_Hints]]
+
+:: Arm_Rising_Subjective_B
+<<set $arm_rising_subjective to 2>>
+[[Continue|Arm_Rising_Helpful_Hints]]
+
+:: Arm_Rising_Subjective_C
+<<set $arm_rising_subjective to 1>>
+[[Continue|Arm_Rising_Helpful_Hints]]
+
+:: Arm_Rising_Subjective_D
+<<set $arm_rising_subjective to 0>>
+[[Continue|Arm_Rising_Helpful_Hints]]
+
+:: Arm_Rising_Troubleshooting
+If you are having trouble raising your arm, try these helpful hints:
+- Take a deep breath and notice how your upper body moves. As you inhale, let your arm rise a bit, and on the exhalation, allow it to rest. Try raising it more on the next inhale.
+- Imagine your arm being pumped up with helium or attached to balloons. Some people find this easier to visualize. You can also imagine your arm floating in water or being lifted by a pulley or any other situation that might occur to you and resonate. It can often be good to be playful.
+- Focus on the sensation of lightness in your arm. Imagine it getting lighter and lighter until it feels like it is floating up by itself.
+- Keep your arm relaxed and loose. Tension can make it feel heavier, so try to keep it as light and relaxed as possible.
+
+[[Try Again|Arm_Rising_Retry]]
+[[Continue|Arm_Rising_Helpful_Hints]]
+
+:: Arm_Rising_Retry
+Let's try the arm rising suggestion one more time. Remember to focus on the sensation of lightness and the image of your arm floating upward.
+
+[[Your arm rises at least six inches|Arm_Rising_Helpful_Hints]]
+<<set $arm_rising_score to $arm_rising_score + 1>>
+
+[[Your arm rises less than six inches|Arm_Rising_Helpful_Hints]]
+
+- That's okay, you *are* fighting against gravity. Let's move on to the next suggestion.
+
+:: Arm_Rising_Helpful_Hints
+If you are having trouble raising your arm, try these helpful hints:
+- Take a deep breath and notice how your upper body moves. As you inhale, let your arm rise a bit, and on the exhalation, allow it to rest. Try raising it more on the next inhale.
+- Imagine your arm being pumped up with helium or attached to balloons. Some people find this easier to visualize. You can also imagine your arm floating in water or being lifted by a pulley or any other situation that might occur to you and resonate. It can often be good to be playful.
+- Focus on the sensation of lightness in your arm. Imagine it getting lighter and lighter until it feels like it is floating up by itself.
+- Keep your arm relaxed and loose. Tension can make it feel heavier, so try to keep it as light and relaxed as possible.
+
+[[Try Again|Arm_Rising_Retry]]
+[[Continue|Hand_Lock_Pref_1]]
+
+:: Hand_Lock_Pref_1
+The next suggestion is the hand-lock suggestion. It will tell you just what you are to make believe. It will initially tell you to fold your hands. Then it will tell you to imagine that your hands are really two hunks of steel that are welded together. Following this, the suggestion will challenge you to pull the hands apart. Despite this challenge, don't pull the hands apart. Instead, make believe that the hands are so tightly welded together that despite your best efforts, you simply cannot get them apart.
+
+[[Continue|Hand_Lock_Pref_2]]
+
+:: Hand_Lock_Pref_2
+Remember what the hypnotic skill involves. You must let yourself become so deeply involved in the make-believe that it actually seems real. Do this by only imagining and thinking of things that are connected with the make-believe situation.
+
+[[Continue|Hand_Lock_Model]]
+
+:: Hand_Lock_Model
+(PLAY VIDEOTAPE OF MODEL)
+
+H: Place your hands on the table and clasp them together, interlacing the fingers. (PAUSE) Imagine that your hands are two pieces of steel that are welded together so that it is impossible to get them apart. They are two pieces of steel welded together. When I ask you to pull your hands apart, they'll be stuck
+
+[[Continue|Hand_Lock]]
+
+:: Hand_Lock
+Place your hands on the table and clasp them together, interlacing the fingers. (PAUSE) Imagine that your hands are two pieces of steel that are welded together so that it is impossible to get them apart. They are two pieces of steel welded together. When I ask you to pull your hands apart, they'll be stuck.
+
+[[Your hands are stuck|Hand_Lock_Score]]
+[[Your hands are not stuck|Hand_Lock_Troubleshooting]]
+
+:: Hand_Lock_Score
+<<set $hand_lock_score to $hand_lock_score + 1>>
+<<set $hand_lock_subjective to 0>>
+How would you rate your experience of the hand-lock suggestion?
+
+[[It felt completely real and involuntary|Hand_Lock_Subjective_A]]
+[[It felt somewhat real and involuntary|Hand_Lock_Subjective_B]]
+[[It felt somewhat voluntary but I was surprised by how real it felt|Hand_Lock_Subjective_C]]
+[[It felt completely voluntary|Hand_Lock_Subjective_D]]
+
+:: Hand_Lock_Subjective_A
+<<set $hand_lock_subjective to 3>>
+[[Continue|Hand_Lock_Helpful_Hints]]
+
+:: Hand_Lock_Subjective_B
+<<set $hand_lock_subjective to 2>>
+[[Continue|Hand_Lock_Helpful_Hints]]
+
+:: Hand_Lock_Subjective_C
+<<set $hand_lock_subjective to 1>>
+[[Continue|Hand_Lock_Helpful_Hints]]
+
+:: Hand_Lock_Subjective_D
+<<set $hand_lock_subjective to 0>>
+[[Continue|Hand_Lock_Helpful_Hints]]
+
+:: Hand_Lock_Troubleshooting
+If you are having trouble locking your hands, try these helpful hints:
+- Focus on the image of your hands being welded together. Imagine the steel welds holding them firmly in place.
+- Try to relax your muscles and let go of any tension in your hands.
+- Imagine the hands being stuck together so tightly that even if you tried, you couldn't pull them apart.
+- Keep your attention on the suggestion and the image of the welded hands.
+
+[[Try Again|Hand_Lock_Retry]]
+[[Continue|Hand_Lock_Helpful_Hints]]
+
+:: Hand_Lock_Retry
+Let's try the hand-lock suggestion one more time. Remember to focus on the image of your hands being welded together and try to relax your muscles.
+
+[[Your hands are stuck|Hand_Lock_Helpful_Hints]]
+<<set $hand_lock_score to $hand_lock_score + 1>>
+
+[[Your hands are not stuck|Hand_Lock_Helpful_Hints]]
+
+- That's okay, you *are* fighting against the suggestion. Let's move on to the next suggestion.
+
+:: Hand_Lock_Helpful_Hints
+If you are having trouble locking your hands, try these helpful hints:
+- Focus on the image of your hands being welded together. Imagine the steel welds holding them firmly in place.
+- Try to relax your muscles and let go of any tension in your hands.
+- Imagine the hands being stuck together so tightly that even if you tried, you couldn't pull them apart.
+- Keep your attention on the suggestion and the image of the welded hands.
+
+[[Try Again|Hand_Lock_Retry]]
+[[Continue|Book_Hallucination_Pref_1]]
+
+:: Book_Hallucination_Pref_1
+The next suggestion is the book hallucination suggestion. It will tell you just what you are to make believe. It will initially tell you to imagine that you are holding a book. Then it will tell you to imagine that the book is really a heavy book that is too heavy for you to hold. Following this, the suggestion will challenge you to hold the book up. Despite this challenge, don't let go of the book. Instead, make believe that the book is so heavy that despite your best efforts, you simply cannot let go of it.
+
+[[Continue|Book_Hallucination_Pref_2]]
+
+:: Book_Hallucination_Pref_2
+Remember what the hypnotic skill involves. You must let yourself become so deeply involved in the make-believe that it actually seems real. Do this by only imagining and thinking of things that are connected with the make-believe situation.
+
+[[Continue|Book_Hallucination_Model]]
+
+:: Book_Hallucination_Model
+(PLAY VIDEOTAPE OF MODEL)
+
+H: Imagine that you are holding a book. (PAUSE) Imagine that the book is really a heavy book that is too heavy for you to hold. (PAUSE) Now hold the book up. (PAUSE) It's too heavy for you to hold. (PAUSE) You can't let go of it. (PAUSE) It's too heavy.
+
+[[Continue|Book_Hallucination]]
+
+:: Book_Hallucination
+Imagine that you are holding a book. (PAUSE) Imagine that the book is really a heavy book that is too heavy for you to hold. (PAUSE) Now hold the book up. (PAUSE) It's too heavy for you to hold. (PAUSE) You can't let go of it. (PAUSE) It's too heavy.
+
+[[You are holding the book|Book_Hallucination_Score]]
+[[You are not holding the book|Book_Hallucination_Troubleshooting]]
+
+:: Book_Hallucination_Score
+<<set $book_hallucination_score to $book_hallucination_score + 1>>
+<<set $book_hallucination_subjective to 0>>
+How would you rate your experience of the book hallucination suggestion?
+
+[[It felt completely real and involuntary|Book_Hallucination_Subjective_A]]
+[[It felt somewhat real and involuntary|Book_Hallucination_Subjective_B]]
+[[It felt somewhat voluntary but I was surprised by how real it felt|Book_Hallucination_Subjective_C]]
+[[It felt completely voluntary|Book_Hallucination_Subjective_D]]
+
+:: Book_Hallucination_Subjective_A
+<<set $book_hallucination_subjective to 3>>
+[[Continue|Book_Hallucination_Helpful_Hints]]
+
+:: Book_Hallucination_Subjective_B
+<<set $book_hallucination_subjective to 2>>
+[[Continue|Book_Hallucination_Helpful_Hints]]
+
+:: Book_Hallucination_Subjective_C
+<<set $book_hallucination_subjective to 1>>
+[[Continue|Book_Hallucination_Helpful_Hints]]
+
+:: Book_Hallucination_Subjective_D
+<<set $book_hallucination_subjective to 0>>
+[[Continue|Book_Hallucination_Helpful_Hints]]
+
+:: Book_Hallucination_Troubleshooting
+If you are having trouble holding the book, try these helpful hints:
+- Focus on the image of the heavy book and the sensation of it being too heavy to hold.
+- Try to relax your muscles and let go of any tension in your hands.
+- Imagine the book being stuck in your hands so tightly that even if you tried, you couldn't let go of it.
+- Keep your attention on the suggestion and the image of the heavy book.
+
+[[Try Again|Book_Hallucination_Retry]]
+[[Continue|Book_Hallucination_Helpful_Hints]]
+
+:: Book_Hallucination_Retry
+Let's try the book hallucination suggestion one more time. Remember to focus on the image of the heavy book and try to relax your muscles.
+
+[[You are holding the book|Book_Hallucination_Helpful_Hints]]
+<<set $book_hallucination_score to $book_hallucination_score + 1>>
+
+[[You are not holding the book|Book_Hallucination_Helpful_Hints]]
+
+- That's okay, you *are* fighting against the suggestion. Let's move on to the next suggestion.
+
+:: Book_Hallucination_Helpful_Hints
+If you are having trouble holding the book, try these helpful hints:
+- Focus on the image of the heavy book and the sensation of it being too heavy to hold.
+- Try to relax your muscles and let go of any tension in your hands.
+- Imagine the book being stuck in your hands so tightly that even if you tried, you couldn't let go of it.
+- Keep your attention on the suggestion and the image of the heavy book.
+
+[[Try Again|Book_Hallucination_Retry]]
+[[Continue|Amnesia_Pref_1]]
+
+:: Amnesia_Pref_1
+The next suggestion is the amnesia suggestion. It will tell you just what you are to make believe. It will initially tell you to imagine that you are in a room with a clock on the wall. Then it will tell you to imagine that the clock is ticking loudly. Following this, the suggestion will challenge you to pay attention to the clock. Despite this challenge, don't pay attention to the clock. Instead, make believe that you are so absorbed in your thoughts that you simply cannot pay attention to the clock.
+
+[[Continue|Amnesia_Pref_2]]
+
+:: Amnesia_Pref_2
+Remember what the hypnotic skill involves. You must let yourself become so deeply involved in the make-believe that it actually seems real. Do this by only imagining and thinking of things that are connected with the make-believe situation.
+
+[[Continue|Amnesia_Model]]
+
+:: Amnesia_Model
+(PLAY VIDEOTAPE OF MODEL)
+
+H: Imagine that you are in a room with a clock on the wall. (PAUSE) Imagine that the clock is ticking loudly. (PAUSE) Now pay attention to the clock. (PAUSE) You can't pay attention to the clock. (PAUSE) You're too absorbed in your thoughts.
+
+[[Continue|Amnesia]]
+
+:: Amnesia
+Imagine that you are in a room with a clock on the wall. (PAUSE) Imagine that the clock is ticking loudly. (PAUSE) Now pay attention to the clock. (PAUSE) You can't pay attention to the clock. (PAUSE) You're too absorbed in your thoughts.
+
+[[You are not paying attention to the clock|Amnesia_Score]]
+[[You are paying attention to the clock|Amnesia_Troubleshooting]]
+
+:: Amnesia_Score
+<<set $amnesia_score to $amnesia_score + 1>>
+<<set $amnesia_subjective to 0>>
+How would you rate your experience of the amnesia suggestion?
+
+[[It felt completely real and involuntary|Amnesia_Subjective_A]]
+[[It felt somewhat real and involuntary|Amnesia_Subjective_B]]
+[[It felt somewhat voluntary but I was surprised by how real it felt|Amnesia_Subjective_C]]
+[[It felt completely voluntary|Amnesia_Subjective_D]]
+
+:: Amnesia_Subjective_A
+<<set $amnesia_subjective to 3>>
+[[Continue|Amnesia_Helpful_Hints]]
+
+:: Amnesia_Subjective_B
+<<set $amnesia_subjective to 2>>
+[[Continue|Amnesia_Helpful_Hints]]
+
+:: Amnesia_Subjective_C
+<<set $amnesia_subjective to 1>>
+[[Continue|Amnesia_Helpful_Hints]]
+
+:: Amnesia_Subjective_D
+<<set $amnesia_subjective to 0>>
+[[Continue|Amnesia_Helpful_Hints]]
+
+:: Amnesia_Troubleshooting
+If you are having trouble not paying attention to the clock, try these helpful hints:
+- Focus on the image of the clock ticking loudly and the sensation of being absorbed in your thoughts.
+- Try to relax your muscles and let go of any tension in your body.
+- Imagine that you are so absorbed in your thoughts that you cannot pay attention to the clock, no matter how loudly it ticks.
+- Keep your attention on the suggestion and the image of being absorbed in your thoughts.
+
+[[Try Again|Amnesia_Retry]]
+[[Continue|Amnesia_Helpful_Hints]]
+
+:: Amnesia_Retry
+Let's try the amnesia suggestion one more time. Remember to focus on the image of the clock ticking loudly and try to relax your muscles.
+
+[[You are not paying attention to the clock|Amnesia_Helpful_Hints]]
+<<set $amnesia_score to $amnesia_score + 1>>
+
+[[You are paying attention to the clock|Amnesia_Helpful_Hints]]
+
+- That's okay, you *are* fighting against the suggestion. Let's move on to the next suggestion.
+
+:: Amnesia_Helpful_Hints
+If you are having trouble not paying attention to the clock, try these helpful hints:
+- Focus on the image of the clock ticking loudly and the sensation of being absorbed in your thoughts.
+- Try to relax your muscles and let go of any tension in your body.
+- Imagine that you are so absorbed in your thoughts that you cannot pay attention to the clock, no matter how loudly it ticks.
+- Keep your attention on the suggestion and the image of being absorbed in your thoughts.
+
+[[Try Again|Amnesia_Retry]]
+[[Continue|Arms_Apart_Pref_1]]
+
+:: Arms_Apart_Pref_1
+The next suggestion is the arms apart suggestion. It will tell you just what you are to make believe. It will initially tell you to imagine that your arms are welded together at the shoulders. Then it will tell you to imagine that your arms are being pulled apart. Despite this challenge, don't let your arms move apart. Instead, make believe that your arms are so tightly welded together that despite your best efforts, you simply cannot move them apart.
+
+[[Continue|Arms_Apart_Pref_2]]
+
+:: Arms_Apart_Pref_2
+Remember what the hypnotic skill involves. You must let yourself become so deeply involved in the make-believe that it actually seems real. Do this by only imagining and thinking of things that are connected with the make-believe situation.
+
+[[Continue|Arms_Apart_Model]]
+
+:: Arms_Apart_Model
+(PLAY VIDEOTAPE OF MODEL)
+
+H: Imagine that your arms are welded together at the shoulders. (PAUSE) Imagine that your arms are being pulled apart. (PAUSE) You can't move your arms apart. (PAUSE) They're welded together.
+
+[[Continue|Arms_Apart]]
+
+:: Arms_Apart
+Imagine that your arms are welded together at the shoulders. (PAUSE) Imagine that your arms are being pulled apart. (PAUSE) You can't move your arms apart. (PAUSE) They're welded together.
+
+[[Your arms are not moving apart|Arms_Apart_Score]]
+[[Your arms are moving apart|Arms_Apart_Troubleshooting]]
+
+:: Arms_Apart_Score
+<<set $arms_apart_score to $arms_apart_score + 1>>
+<<set $arms_apart_subjective to 0>>
+How would you rate your experience of the arms apart suggestion?
+
+[[It felt completely real and involuntary|Arms_Apart_Subjective_A]]
+[[It felt somewhat real and involuntary|Arms_Apart_Subjective_B]]
+[[It felt somewhat voluntary but I was surprised by how real it felt|Arms_Apart_Subjective_C]]
+[[It felt completely voluntary|Arms_Apart_Subjective_D]]
+
+:: Arms_Apart_Subjective_A
+<<set $arms_apart_subjective to 3>>
+[[Continue|Arms_Apart_Helpful_Hints]]
+
+:: Arms_Apart_Subjective_B
+<<set $arms_apart_subjective to 2>>
+[[Continue|Arms_Apart_Helpful_Hints]]
+
+:: Arms_Apart_Subjective_C
+<<set $arms_apart_subjective to 1>>
+[[Continue|Arms_Apart_Helpful_Hints]]
+
+:: Arms_Apart_Subjective_D
+<<set $arms_apart_subjective to 0>>
+[[Continue|Arms_Apart_Helpful_Hints]]
+
+:: Arms_Apart_Troubleshooting
+If you are having trouble keeping your arms together, try these helpful hints:
+- Focus on the image of your arms being welded together at the shoulders.
+- Try to relax your muscles and let go of any tension in your arms.
+- Imagine a strong force keeping your arms together, resisting any attempt to pull them apart.
+- Keep your attention on the suggestion and the image of your arms being welded together.
+
+[[Try Again|Arms_Apart_Retry]]
+[[Continue|Arms_Apart_Helpful_Hints]]
+
+:: Arms_Apart_Retry
+Let's try the arms apart suggestion one more time. Remember to focus on the image of your arms being welded together and try to relax your muscles.
+
+[[Your arms are not moving apart|Arms_Apart_Helpful_Hints]]
+<<set $arms_apart_score to $arms_apart_score + 1>>
+
+[[Your arms are moving apart|Arms_Apart_Helpful_Hints]]
+
+- That's okay, you *are* fighting against the suggestion. Let's move on to the next suggestion.
+
+:: Arms_Apart_Helpful_Hints
+If you are having trouble keeping your arms together, try these helpful hints:
+- Focus on the image of your arms being welded together at the shoulders.
+- Try to relax your muscles and let go of any tension in your arms.
+- Imagine a strong force keeping your arms together, resisting any attempt to pull them apart.
+- Keep your attention on the suggestion and the image of your arms being welded together.
+
+[[Try Again|Arms_Apart_Retry]]
+[[Continue|Hearing_Voice]]
+
+:: Hearing_Voice
+Now, I'm going to play a tape. It will have a suggestion on it. It will be a suggestion that you hear a voice in the room with you. The voice will be telling you to lower your head.
+
+Remember, there are two parts to responding to this suggestion: the physical and the mental. You must physically lower your head, but it should feel like you're responding to a voice because of your mental imaginings. Concentrate on hearing a voice telling you to lower your head.
+
+As you focus on this imagined voice, let the physical act of lowering your head reinforce the mental image, which in turn reinforces the physical movement. This feedback loop should create a feeling of hearing a voice and the sensation that you're responding to it.
+
+[[You hear the voice and lower your head|Hearing_Voice_Score]]
+[[You do not hear the voice or lower your head|Head_Lowering]]
+
+:: Hearing_Voice_Score
+<<set $hearing_voice_score to $hearing_voice_score + 1>>
+<<set $hearing_voice_subjective to 0>>
+How would you rate your experience of the hearing voice suggestion?
+
+[[It felt completely real and involuntary|Hearing_Voice_Subjective_A]]
+[[It felt somewhat real and involuntary|Hearing_Voice_Subjective_B]]
+[[It felt somewhat voluntary but I was surprised by how real it felt|Hearing_Voice_Subjective_C]]
+[[It felt completely voluntary|Hearing_Voice_Subjective_D]]
+
+:: Hearing_Voice_Subjective_A
+<<set $hearing_voice_subjective to 3>>
+[[Continue|Head_Lowering]]
+
+:: Hearing_Voice_Subjective_B
+<<set $hearing_voice_subjective to 2>>
+[[Continue|Head_Lowering]]
+
+:: Hearing_Voice_Subjective_C
+<<set $hearing_voice_subjective to 1>>
+[[Continue|Head_Lowering]]
+
+:: Hearing_Voice_Subjective_D
+<<set $hearing_voice_subjective to 0>>
+[[Continue|Head_Lowering]]
+
+:: Head_Lowering
+(PLAY VIDEOTAPE OF MODEL)
+
+H: Now, I'm going to play a tape. It will have a suggestion on it. It will be a suggestion that you hear a voice in the room with you. The voice will be telling you to lower your head.
+
+M: I can hear a voice. It's saying, "Lower your head."
+
+H: Now, lower your head.
+
+M: (LOWERS HEAD)
+
+H: Keep your head down.
+
+M: (KEEPS HEAD DOWN)
+
+H: Now, raise your head.
+
+M: (RAISES HEAD)
+
+[[You Heard The Voice And Lowered Your Head|Head_Lowering_Score]]
+[[You Did Not Hear The Voice Or Lower Your Head|Head_Lowering_Troubleshooting]]
+
+:: Head_Lowering_Score
+<<set $head_lowering_score to $head_lowering_score + 1>>
+<<set $head_lowering_subjective to 0>>
+How would you rate your experience of the head lowering suggestion?
+
+[[It Felt Completely Real And Involuntary|Head_Lowering_Subjective_A]]
+[[It Felt Somewhat Real And Involuntary|Head_Lowering_Subjective_B]]
+[[It Felt Somewhat Voluntary But I Was Surprised By How Real It Felt|Head_Lowering_Subjective_C]]
+[[It Felt Completely Voluntary|Head_Lowering_Subjective_D]]
+
+:: Head_Lowering_Subjective_A
+<<set $head_lowering_subjective to 3>>
+[[Continue|Test_Amnesia]]
+
+:: Head_Lowering_Subjective_B
+<<set $head_lowering_subjective to 2>>
+[[Continue|Test_Amnesia]]
+
+:: Head_Lowering_Subjective_C
+<<set $head_lowering_subjective to 1>>
+[[Continue|Test_Amnesia]]
+
+:: Head_Lowering_Subjective_D
+<<set $head_lowering_subjective to 0>>
+[[Continue|Test_Amnesia]]
+
+:: Head_Lowering_Troubleshooting
+If you are having trouble hearing the voice or lowering your head, try these helpful hints:
+- Focus on the idea of a voice speaking to you in the room.
+- Try to relax your muscles and let go of any tension in your neck and shoulders.
+- Imagine the sensation of your head becoming heavy and naturally lowering.
+- Keep your attention on the suggestion and the image of hearing the voice and lowering your head.
+
+[[Try Again|Head_Lowering_Retry]]
+[[Continue|Test_Amnesia]]
+
+:: Head_Lowering_Retry
+Let's try the head lowering suggestion one more time. Remember to focus on the image of hearing a voice and the sensation of your head becoming heavy.
+
+[[You Heard The Voice And Lowered Your Head|Test_Amnesia]]
+<<set $head_lowering_score to $head_lowering_score + 1>>
+
+[[You Did Not Hear The Voice Or Lower Your Head|Test_Amnesia]]
+
+- That's okay, you *are* fighting against the suggestion. Let's move on to the next suggestion.
+
+:: Test_Amnesia
+As you recall, you were just given three suggestions. However, a funny thing is beginning to happen; the memory of these suggestions is fading, fading completely. In fact, you are totally unable to remember what these suggestions were. Nevertheless, I want you to try to remember them - even though this will be impossible.
+
+Remember, there are two parts to responding to this suggestion: the physical and the mental. You must physically try to remember the suggestions, but it should feel like you cannot remember them because of your mental imaginings. Concentrate on a mental image consistent with the suggestion, such as the suggestions being erased from a chalkboard or your mind being a blank piece of paper.
+
+As you focus on these images, let the physical act of trying to remember reinforce the mental image, which in turn reinforces the physical act. This feedback loop should create a feeling of forgetting and the sensation that you cannot remember the suggestions.
+
+[[You Cannot Remember The Test Suggestions|Test_Amnesia_Score]]
+
+:: Test_Amnesia_Score
+<<set $test_amnesia_score to $test_amnesia_score + 1>>
+<<set $test_amnesia_subjective to 0>>
+How would you rate your experience of the test amnesia suggestion?
+
+[[It felt completely real and involuntary|Test_Amnesia_Subjective_A]]
+[[It felt somewhat real and involuntary|Test_Amnesia_Subjective_B]]
+[[It felt somewhat voluntary but I was surprised by how real it felt|Test_Amnesia_Subjective_C]]
+[[It felt completely voluntary|Test_Amnesia_Subjective_D]]
+
+:: Test_Amnesia_Subjective_A
+<<set $test_amnesia_subjective to 3>>
+- Now the memories are returning. They are becoming more and more clear. In fact, you can remember all the suggestions that were presented.
+[[Continue|Calculate_Score]]
+
+:: Test_Amnesia_Subjective_B
+<<set $test_amnesia_subjective to 2>>
+- Now the memories are returning. They are becoming more and more clear. In fact, you can remember all the suggestions that were presented.
+[[Continue|Calculate_Score]]
+
+:: Test_Amnesia_Subjective_C
+<<set $test_amnesia_subjective to 1>>
+- Now the memories are returning. They are becoming more and more clear. In fact, you can remember all the suggestions that were presented.
+[[Continue|Calculate_Score]]
+
+:: Test_Amnesia_Subjective_D
+<<set $test_amnesia_subjective to 0>>
+- Now the memories are returning. They are becoming more and more clear. In fact, you can remember all the suggestions that were presented.
+[[Continue|Calculate_Score]]
+
+[[You can remember the test suggestions|Calculate_Score]]
+
+- Now the memories are returning. They are becoming more and more clear. In fact, you can remember all the suggestions that were presented.
+
+:: Calculate_Score
+<<set $total_training_score to $arm_rising_score + $hand_lock_score + $book_hallucination_score + $amnesia_score>>
+<<set $total_training_subjective to $arm_rising_subjective + $hand_lock_subjective + $book_hallucination_subjective + $amnesia_subjective>>
+<<set $total_test_score to $arms_apart_score + $hearing_voice_score + $head_lowering_score + $test_amnesia_score>>
+<<set $total_test_subjective to $arms_apart_subjective + $hearing_voice_subjective + $head_lowering_subjective + $test_amnesia_subjective>>
+<<set $total_score to $total_training_score + $total_test_score>>
+<<set $total_subjective to $total_training_subjective + $total_test_subjective>>
+
+Your training session objective score: <<print $total_training_score>> out of 4.
+Your training session subjective score: <<print $total_training_subjective>> out of 12.
+
+Your test session objective score: <<print $total_test_score>> out of 4.
+Your test session subjective score: <<print $total_test_subjective>> out of 12.
+
+Your total objective score: <<print $total_score>> out of 8.
+Your total subjective score: <<print $total_subjective>> out of 24.
+
+This score represents your current level of hypnotic responsiveness. Remember, hypnotic responsiveness is a skill that can be improved with practice.
+
+[[End session|END]]
