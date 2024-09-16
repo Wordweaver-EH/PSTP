@@ -93,3 +93,54 @@ If you're having trouble forgetting the suggestions, try these tips:
 
 [[Try Again|Amnesia_Retry]]
 [[Continue|Test_Instructions]]
+
+:: Hypnosis_Explanation
+Remember how in old movies the hypnotist would have the subject fixate on a dangling pocketwatch? As the subject followed the watch, the hypnotist would suggest: "You are becoming sleepy; your eyelids are getting heavier and heavier and are closing completely; you are falling into a deep, deep sleep."
+
+It was once believed that these instructions would cause subjects to enter a hypnotic trance, losing control to the hypnotist. This is one of the great misconceptions about hypnosis. In reality, hypnosis doesn't involve any loss of consciousness, trances, or loss of control.
+
+Hypnosis is actually a skill that anyone can learn and master with proper instructions and practice. It's similar to learning to ride a bicycle, swim, or solve math problems. The repeated instructions for sleep simply help you relax and focus on learning the hypnotic skill.
+
+What does the hypnotic skill involve? It's all about make-believe. Think of Snoopy from the Charlie Brown comics. When Snoopy imagines he's a World War I flying ace, he creates an entire make-believe situation through his imagination. He becomes so involved that, for a moment, he believes he's really flying a plane. This is similar to what happens in hypnosis - you become deeply involved in your imaginings.
+
+This skill isn't unusual or mysterious. It's what happens when someone is "absorbed" or "deeply involved" in their thoughts. You have full control and can start or stop whenever you like, just as children can shift between make-believe play and reality at will.
+
+[[Continue to Arm Rising Explanation|Arm_Rising_Explanation]]
+
+:: Arm_Rising_Explanation
+The arm rising suggestion involves imagining your arm is like a hollow balloon being pumped up with helium, making it so light that it rises into the air by itself. Your task is to do everything consistent with this make-believe situation:
+
+1. Physically lift your arm
+2. Imagine the sensation of helium filling your arm
+3. Focus on the feeling of lightness
+4. Visualize your arm rising by itself
+
+To make it feel real, focus intensely on the make-believe situation. Keep your attention only on what the suggestion tells you to imagine. Concentrate on:
+- The hollow feeling in your arm
+- Its increasing lightness
+- The sensation of it rising by itself
+
+Don't let yourself think about anything unrelated to this make-believe scenario. The more you focus on these imaginings, the more real it will feel, and the more your arm will seem to be rising on its own.
+
+[[Continue to Arm Rising Suggestion|Arm_Rising]]
+
+:: Arm_Rising
+Now, please extend your right arm straight out in front of you at shoulder height. Pay close attention to this arm, notice that it feels tingly and slightly numb. Notice too that it is beginning to feel lighter. Your arm is beginning to feel lighter and lighter, and as it feels lighter, it begins to rise into the air.
+
+Imagine that your arm is like a balloon. Imagine that air is being pumped into it making it feel lighter and lighter. Your arm feels lighter and lighter, lighter and lighter, and, like a balloon it rises higher and higher, higher and higher into the air. It is rising, rising, getting lighter and lighter, rising higher and higher.
+
+Remember the feedback loop: the physical movement of your arm rising reinforces your mental image, which in turn reinforces the physical movement. This creates a feeling of lightness and the sensation that your arm is rising by itself.
+
+[[Your arm rises at least six inches|Arm_Rising_Score]]
+[[Your arm rises less than six inches|Arm_Rising_Troubleshooting]]
+
+:: Arm_Rising_Troubleshooting
+<<set $arm_rising_attempts to $arm_rising_attempts + 1>>
+If you're having trouble raising your arm, try these helpful hints:
+- Take deep breaths. As you inhale, let your arm rise slightly, and on the exhale, allow it to rest. Try raising it more with each inhalation.
+- Use a mental image that's familiar to you. Visualize your arm being filled with helium, attached to balloons, or floating in water.
+- Keep your arm relaxed and loose. Tension can make it feel heavier, so try to maintain a sense of lightness.
+- Focus on the sensation of lightness in your arm. Imagine it getting lighter and lighter until it feels like it's floating up by itself.
+
+[[Try Again|Arm_Rising_Retry]]
+[[Continue|Arm_Rising_Helpful_Hints]]
