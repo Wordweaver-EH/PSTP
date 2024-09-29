@@ -2,6 +2,8 @@
 CSTP Hypnosis Study
 
 :: Start
+
+[[Introduction|Introduction]]
 <<set $arm_rising_score to 0>>
 <<set $hand_lock_score to 0>>
 <<set $book_hallucination_score to 0>>
@@ -26,12 +28,13 @@ CSTP Hypnosis Study
 <<set $total_test_score to 0>>
 <<set $total_score to 0>>
 
-[[Introduction|Introduction]]
 
 :: Introduction
 You have been chosen for this study because you have shown low susceptibility in a previous hypnosis session. We believe that people show low responsiveness to suggestions because they are not quite sure how they should be thinking or acting in response to suggestions. Research has shown that instruction and practice can significantly increase an individual's responsiveness. So today's session is a practice/training session.
 
-The procedure is this: First you will first go through a lengthy introduction to hypnosis. It will outline some of the myths and misconceptions of hypnosis. For example, hypnosis is not a trance state, there is no loss of control, no loss of consciousness. The person responding to suggestions is in complete control, very aware of his/her mind and body. In fact, the person who is responding hypnotically is probably more aware and more in control of directing his or her mind than at any other time during the day.
+The procedure is this: First you will hear a lengthy introduction to hypnosis. It will outline some of the myths and misconceptions of hypnosis. For example, hypnosis is not a trance state, there is no loss of control, no loss of consciousness. The person responding to suggestions is in complete control, very aware of his/her mind and body. In fact, the person who is responding hypnotically is probably more aware and more in control of directing his or her mind than at any other time during the day. The sleep suggestion in the "induction" is there to help people become calm and relaxed in order that they may concentrate.
+
+Following the taped introduction to hypnosis, you will hear an introduction to the first suggestion. There will be four suggestions presented in all. After each one is introduced, you will view a videotape of a subject responding to the suggestion. She has practiced the skill which you are going to learn today. You will notice that this tape is not of a spontaneous session such as this one. Rather, it is a condensed presentation of many points which we wanted to communicate to you. The subject on the videotape will be verbalizing her responses throughout the session so that you will know what kinds of things she is thinking about. You will not be expected to do this. Following this, you will see a short interview during which the major points will be clarified. Pay close attention to these points. Then you will have an opportunity to practice responding to the suggestion yourself. In this way, we will work with four suggestions together, using the videotape as a model. At the very end of the session, after you have practiced the four suggestions, you will be given four different suggestions which will be presented one after the other. You will respond to this series without any instructions or coaching. This is your opportunity to demonstrate whatever skills you have acquired during the session in a spontaneous manner. Do you have any questions about the procedure?
 
 [[Continue|Intro_1]]
 
@@ -102,11 +105,40 @@ Before you are given an opportunity to respond to this suggestion, you will be s
 
 :: Arm_Rising_Model
 (PLAY VIDEOTAPE OF MODEL)
-H: Now, please extend your right arm straight out in front of you at shoulder height. Pay close attention to this arm, notice that it feels tingly and slightly numb. Notice too that it is beginning to feel lighter. Your arm is beginning to feel lighter and lighter, and as it feels lighter, it begins to rise into the air.
+H: Place your right arm straight out in front of you at shoulder height. (PAUSE) Imagine that your right arm is light and hollow like a balloon, and that it is gradually being pumped up with helium. The helium is lighter than air and it is causing your hollow arm to become lighter and lighter and to rise in the air. More and more helium is being pumped into your arm, and the arm is getting lighter and just continues to rise.
 
-Imagine that your arm is like a balloon. Imagine that air is being pumped into it making it feel lighter and lighter. Your arm feels lighter and lighter, lighter and lighter, and, like a balloon it rises higher and higher, higher and higher into the air. It is rising, rising, getting lighter and lighter, rising higher and higher.
+(WAIT 25 SECONDS)
 
 M: It's going up by itself. If feels hollow. I can see the pump. I can feel the arm being pumped up. It's really light. It's moving up by itself. It just keeps getting lighter and is going up by itself. It's just getting lighter and lighter.
+
+H: Relax your arm now and place it on the table.
+[[Continue|Arm_Rising_Interview]]
+:: Arm_Rising_Interview
+H: So, how did you find responding to this one?
+
+M: It was really good. With practice, I got better and better at it.
+
+H: I see.
+
+M: It's just like you said, it's like learning any skill like swimming or math. It just takes coaching and practice. And this skill, it's really important that you use your imagination. You have to picture all the make-believe events in your mind.
+
+H: Like what?
+
+M: Well, for instance, I just let myself imagine that my arm was hollow. I could see it that way in my mind; you know, I could see my hollow arm with the air hose attached to it. I even imagined the pump. It was just like the air pumps that they have at gas stations. I could see the pump and the hose coming from it and pumping up my hollow arm.
+
+H: I see.
+
+M: And there's another really important thing. You really have to let yourself get into it. That really made the difference like you said it would. Like, I didn't just sit back and say, "Hey, I'm imagining all this". Commenting on it would have just ruined the feeling. I just let myself get totally engrossed imagining my arm as hollow and being pumped up, and when I did, it all felt like it was really happening.
+
+H: So, it felt real.
+
+M: That's right. That's the point of all this, isn't it? You've got to make it feel real.
+
+H: Yes, exactly.
+
+M: There's a real knack to it. I found myself getting better at it as I practiced.
+
+H: Very good.
 
 [[Continue|Arm_Rising]]
 
@@ -193,7 +225,30 @@ Remember what the hypnotic skill involves. You must let yourself become so deepl
 
 H: Place your hands on the table and clasp them together, interlacing the fingers. (PAUSE) Imagine that your hands are two pieces of steel that are welded together so that it is impossible to get them apart. They are two pieces of steel welded together. When I ask you to pull your hands apart, they'll be stuck and won't come apart no matter how hard you try." (WAIT 20 SECONDS)
 M: They're really stuck together. This is impossible. They're welded together. They're just two hunks of steel welded together. I can't get them apart.
-H: Okay, relax. Your hands are no longer stuck together. You can pull them apart.
+H: Okay, relax. Your hands are no longer stuck together. You can pull them apart. Continue to relax.
+
+[[Continue|Hand_Lock_Interview]]
+:: Hand_Lock_Interview
+
+H: How was this one?
+
+M: Good. I think I'm really getting good at the skill now,
+
+H: Yes, you sure are.
+
+M: I just let myself feel everything that was suggested. It really felt like my hands couldn't come apart.
+
+H: Anything else?
+
+M: I just pictured that my hands were two heavy, cold blocks of steel that were welded together. I got so into these thoughts that they actually felt that way.
+
+H: That's right.
+
+M: If I'd stopped imagining and admitted to myself that they could come apart, then sure, of course I could have made them come apart, but that wasn't the point of the suggestion. The point was to get involved in the make-believe no matter what. So I just kept really involved in imagining my hands were welded chunks of steel. And I did this until the suggestion was completely over.
+
+H: Very good. That's just what I wanted you to do. Anything else?
+
+M: Uh. No, can't think of anything.
 
 [[Continue|Hand_Lock]]
 
@@ -281,7 +336,7 @@ There is another thing. Towards the end of the suggestion, you will be asked to 
 
 :: Book_Hallucination_Model
 (PLAY VIDEOTAPE OF MODEL)
-H: Place your hands on your lap and close your eyes. (PAUSE) I'm not sure if you've noticed, but there is a book of mine on the desk in front of you. It is an average-sized book, one like hundreds you've seen. It is right there in front of you on the desk. Open your eyes and look at the book sitting there on the desk. (WAIT 20 SECONDS) To avoid the book being in your way, why don't you just slide it off to the side. (WAIT 20 SECONDS) The image of the book is now fading. It has faded completely and you can no longer see the book.
+H: Place your hands on your lap and close your eyes. (PAUSE) I'm not sure if you have noticed, but there is a book of mine on the desk in front of you. It's an average size book, one like hundreds you've seen. It's right there in front of you on the desk. Open your eyes and look at the book sitting there on the desk. (WAIT 20 SECONDS)
 
 M: There it is. I can see it on the desk. I see the book sitting there. It's kind of vague and fuzzy ... a vague, coloured outline of the book; but it's there.
 
@@ -290,6 +345,29 @@ H: To avoid the book being in the way, why don't you just slide it off to the si
 M: I'll just push it over there and get it out of the way.
 
 H: The image of the book is now fading. It's faded completely and you no longer see the book.
+
+[[Continue|Book_Hallucination_Interview]]
+
+:: Book_Hallucination_Interview
+How did you find this one?
+
+M: Well, before I was even asked to open my eyes, I had everything pictured in my mind. Like, I pictured the desk and I pictured the book on it. I pictured all the details of how the book would be positioned on the desk and how the book itself would look. I could see the book near the edge of the desk and on the book I could see the little call number sticker and the stamps and everything.
+
+H: And when you opened your eyes?
+
+M: You know, it's funny. Opening my eyes didn't make much of a difference.
+
+H: How do you mean?
+
+M: Well, everything I pictured when I had my eyes closed, I let carry over to when I had my eyes open. I didn't let a thing change. I let myself see the book on the exact spot when they were open as I had pictured it when they were closed.
+
+H: I see what you mean. That's quite clever. Anything else?
+
+M: There's another thing. It's really important to concentrate as deeply as possible. Like I know it's important to concentrate on all the suggestions, but it's especially important with this one. You can't let your thoughts wander for a second. You really have to let yourself see the book there all the time.
+
+H: Uh huh.
+
+M: There's a real knack to this. It's a skill just like you said it was, but it's a strange one. It's a skill at NOT noticing that you're really acting.
 
 [[Continue|Book_Hallucination]]
 
@@ -382,18 +460,50 @@ Following the challenge to remember the suggestions, there will be a one-minute 
 
 (PLAY VIDEOTAPE OF MODEL)
 
-H: As you recall, you were just given three suggestions. However, a funny thing is beginning to happen: The memory of these suggestions is fading, fading completely. In fact, you are totally unable to remember what these suggestions were. Nevertheless, I want you to try to remember them, even though this will be impossible. Open your eyes and write down the suggestions on the sheet of paper on the desk. You will be given one minute. Begin. (WAIT ONE MINUTE)
+H: As you recall, you were just given three suggestions. However, a funny thing is beginning to happen; the memory of these suggestions is fading, fading completely. In fact, you are totally unable to remember what these suggestions were. Nevertheless, I want you to try to remember them - even though this will be impossible. Open your eyes and write down the suggestions that you can remember on the sheet of paper on the desk. You will be given one minute. Begin.
 
-M: It's strange. I can't seem to remember any of the suggestions. My mind feels blank, like an empty chalkboard. I'm trying to recall, but nothing's coming to me. Instead, I keep thinking about how heavy my body feels, especially my feet. They're tingling and feel so heavy. It's an odd sensation, but kind of pleasant. It reminds me of lying on the beach, feeling the warm sun on my skin. I can almost hear the waves and see people walking by...
+(WAIT ONE MINUTE)
 
-H: Time is up.
+M: It's funny. I can't seem to remember any of the suggestions. All I can feel is a real heaviness all over my body, but especially in my feet. My feet are tingling, they're just heavy and tingling. It's a funny sensation. It feels kind of nice. It reminds me of lying on the beach, letting the sun tan my body. Watching the people go by and the children....
 
-H: Now the memories are returning. They are becoming more and more clear. In fact, you can remember all the suggestions that were presented. Write down all of the suggestions on the paper provided. Again, you will have one minute.
+H: Time's up. Now the memories are returning. They are becoming more and more clear. In fact, you can remember all the suggestions that were presented. Write down all of the suggestions on the piece of paper provided. Again, you will be given one minute to do so.
 
-M: Oh, now that you mention it, I can remember them quite clearly. It's like they just popped back into my mind.
+(WAIT ONE MINUTE)
 
-H: Time is up.
+M: Now that I think of the suggestions, I can remember them quite clearly.
 
+
+[[Continue|Amnesia_Interview]]
+:: Amnesia_Interview
+H: How was this one?
+
+M: Pretty good. I just let my attention drift away from the memories of the suggestion.
+
+H: So it was YOU who caused the forgetting.
+
+M: Sure, in a way. You can only remember things by sort of stopping what you're doing and letting yourself think back to what you're supposed to remember.
+
+H: Ah yes, I see.
+
+M: I just didn't stop and let myself think back. Instead, I just let my mind become preoccupied with other things.
+
+H: Like what?
+
+M: For instance, I noticed that my feet felt heavy and tingling, and so I just concentrated on these sensations in my feet. As long as I did that, and didn't shift my attention back to what I was supposed to remember, then I really couldn't remember.
+
+H: Yes, I see. What about when you were told to try and remember the suggestions?
+
+M: Well, it's like with the other suggestions ... you know, when I was asked to try to separate my hands. I didn't stop thinking of my hands as stuck and welded together. For the suggestion to forget, I just kept on distracting myself. The point of the suggestion was to keep up the forgetting no matter what, so that's what I did.
+
+H: Yes, that's right. Anything else?
+
+M: No ... well except that, like I said before, there's a real knack to this. You can really get good at it once you practice. You can really feel yourself getting better at controlling your mind to do all these things.
+
+H: Almost everyone finds that.
+
+M: Like, you can actually turn the make-believe into reality ... and get good at it! It's actually kind of fun!
+
+H: You know, almost everyone finds that too.
 
 [[Continue|Amnesia]]
 
@@ -458,16 +568,23 @@ Let's move on to the test suggestions.
 <</if>>
 
 :: Test_Instructions
-Now, I'm going to play the tape with four different suggestions on it. They will be presented without any discussion or dialogue between us. This is your chance to utilize the skills you have developed today. The suggestions will be introduced and there will only be enough time for you to respond. Just follow along and attend carefully to the suggestions. Afterwards, we will talk a bit more.
+In a moment, you will be presented with four more suggestions that are different from the ones you've just been presented. The upcoming suggestions will be presented one after the other with only sufficient time in between for you to make a full response. You will be presented with a suggestion, given ample opportunity to respond to it, and then be presented with the next suggestion right afterwards, and so on.
+
+You will not be given the extensive instructions you were given before. You will not, for instance, be told what an upcoming suggestion is, nor will you be given any instructions on how exactly to respond to such a suggestion. The reason for these measures is that you already know how to go about responding hypnotically, so going over the instructions again will probably be dull and boring for you.
+[[Continue|Test_Instructions_2]]
+
+:: Test_Instructions_2
+There is another even more important reason. Suggestions presented in this manner will require that you apply the skills you've learned to new tasks. As a good hypnotic subject, you must be able to respond hypnotically to any suggestion you are presented, even if you have not received it before or have not been given instructions on how to respond to it. With the basic skills you have now learned and with a little effort and creativity on your part, you will no doubt be able to respond hypnotically to any new suggestions that you are presented.
+
+Now, close your eyes and take half a minute to mentally rehearse the hypnotic skill and really get yourself psyched-up to respond hypnotically to each of the four new suggestions to be presented. I'll present the suggestions beginning in 30 seconds.
 
 [[Begin test suggestions|Arms_Apart]]
 
 :: Arms_Apart
 Close your eyes. Place both of your hands straight out in front of you at shoulder height, with the palms facing one another and with the fingertips of one hand touching the fingertips of the other. Imagine that a force is beginning to make the hands repel one another. The force is getting stronger and stronger. It's getting so strong that it is beginning to push your hands apart. It's getting stronger and stronger and your hands are moving further and further apart.
+(WAIT 20 SECONDS)
 
-Remember, there are two parts to responding to this suggestion: the physical and the mental. You must physically move your hands apart, but it should feel like they are being pushed apart by an external force because of your mental imaginings. Concentrate on a mental image consistent with the suggestion, such as a magnetic force repelling your hands or an invisible force pushing them apart.
-
-As you focus on these images, let the physical movement of your hands apart reinforce the mental image, which in turn reinforces the physical movement. This feedback loop should create a feeling of being pushed apart and the sensation that your hands are moving apart by themselves.
+The force is no longer active. Place your hands back on the table. Continue to relax.
 
 [[Your hands move apart at least six inches|Arms_Apart_Score]]
 [[Your hands move apart less than six inches|Hearing_Voice]]
@@ -503,17 +620,45 @@ How would you rate your experience of the arms apart suggestion?
 [[Continue|Hearing_Voice]]
 
 :: Hearing_Voice
-Now, I'm going to play a tape. It will have a suggestion on it. It will be a suggestion that you hear a voice in the room with you. The voice will be telling you to lower your head.
+You are taking a course in the history of psychology and you are now in the classroom. In a moment, the professor will ask in what country Sigmund Freud was born. Of course, you know from your studies that it was Moravia. As you can hear, the professor is already asking several other questions about Freud, and he is just getting to the country of birth question, so get ready. In a few seconds, I want you to hear the professor ask Freud's birthplace and raise your hand to answer the question. (WAIT 20 SECONDS) Okay, he's calling on someone else. You can lower your hand. Perhaps he'll call on you in tomorrow's class. Keep your eyes closed and continue to relax.
 
-Remember, there are two parts to responding to this suggestion: the physical and the mental. You must physically lower your head, but it should feel like you're responding to a voice because of your mental imaginings. Concentrate on hearing a voice telling you to lower your head.
+[[You hear the voice and raise your hand|Hearing_Voice_Score]]
+[[You do not hear the voice |Head_Lowering]]
 
-As you focus on this imagined voice, let the physical act of lowering your head reinforce the mental image, which in turn reinforces the physical movement. This feedback loop should create a feeling of hearing a voice and the sensation that you're responding to it.
+:: Hearing_Voice_Score
+<<set $hearing_voice_score to $hearing_voice_score + 1>>
+<<set $hearing_voice_subjective to 0>>
+How would you rate your experience of the hearing voice suggestion?
 
-[[You hear the voice and lower your head|Head_Lowering]]
-[[You do not hear the voice or lower your head|Head_Lowering]]
+[[It felt completely real and involuntary|Hearing_Voice_Subjective_A]]
+[[It felt somewhat real and involuntary|Hearing_Voice_Subjective_B]]
+[[It felt somewhat voluntary but I was surprised by how real it felt|Hearing_Voice_Subjective_C]]
+[[It felt completely voluntary|Hearing_Voice_Subjective_D]]
+
+:: Hearing_Voice_Subjective_A
+<<set $hearing_voice_subjective to 3>>
+[[Continue|Head_Lowering]]
+
+:: Hearing_Voice_Subjective_B
+<<set $hearing_voice_subjective to 2>>
+[[Continue|Head_Lowering]]
+
+:: Hearing_Voice_Subjective_C
+<<set $hearing_voice_subjective to 1>>
+[[Continue|Head_Lowering]]
+
+:: Hearing_Voice_Subjective_D
+<<set $hearing_voice_subjective to 0>>
+[[Continue|Head_Lowering]]
 
 :: Head_Lowering
-<<set $head_lowering_score to 0>>
+Now, imagine that a force is pushing down on the top of your head, causing it to feel heavy. It feels like someone has placed the palm of their hand on the top of your head and is pushing downward. Your head is being pushed down with such force that your chin is moving toward your chest. The force continues to push, making your head feel heavier and heavier, making it fall forward more and more. (WAIT 20 SECONDS) The hand is no longer pushing on your head and you can sit up again and relax. Continue to relax.
+
+[[Your head feels heavy and lowers|Head_Lowering_Score]]
+[[Your head does not feel heavy|Head_Lowering_Score]]
+
+:: Head_Lowering_Score
+<<set $head_lowering_score to $head_lowering_score + 1>>
 <<set $head_lowering_subjective to 0>>
 How would you rate your experience of the head lowering suggestion?
 
@@ -542,18 +687,16 @@ How would you rate your experience of the head lowering suggestion?
 [[Continue|Test_Amnesia]]
 
 :: Test_Amnesia
-<<set $test_amnesia_attempts to 0>>
-As you recall, you were just given three suggestions. However, a funny thing is beginning to happen; the memory of these suggestions is fading, fading completely. In fact, you are totally unable to remember what these suggestions were. Nevertheless, I want you to try to remember them - even though this will be impossible.
+As you recall, you were just given three suggestions. However, a funny thing is beginning to happen: The memory of these suggestions is fading, fading completely. In fact, you are totally unable to remember what these suggestions were. Nevertheless, I want you to try to remember them, even though this will be impossible. Open your eyes and write down the suggestions on the sheet of paper on the desk. You will be given one minute. Begin. (WAIT ONE MINUTE) Time is up.
 
-Remember, there are two parts to responding to this suggestion: the physical and the mental. You must physically try to remember the suggestions, but it should feel like you cannot remember them because of your mental imaginings. Concentrate on a mental image consistent with the suggestion, such as the suggestions being erased from a chalkboard or your mind being a blank piece of paper.
-
-As you focus on these images, let the physical act of trying to remember reinforce the mental image, which in turn reinforces the physical act. This feedback loop should create a feeling of forgetting and the sensation that you cannot remember the suggestions.
-
-[[You cannot remember the test suggestions|Test_Amnesia_Score]]
+[[You could not remember the test suggestions|Test_Amnesia_Score]]
+[[You could remember the test suggestions|Test_Amnesia_Score]]
 
 :: Test_Amnesia_Score
 <<set $test_amnesia_score to $test_amnesia_score + 1>>
 <<set $test_amnesia_subjective to 0>>
+Now the memories are returning. They are becoming more and more clear. In fact, you can remember all the suggestions that were presented. Write down all of the suggestions on the paper provided. Again, you will have one minute. (WAIT ONE MINUTE) Time is up.
+
 How would you rate your experience of the test amnesia suggestion?
 
 [[It felt completely real and involuntary|Test_Amnesia_Subjective_A]]
@@ -580,32 +723,6 @@ How would you rate your experience of the test amnesia suggestion?
 <<set $test_amnesia_subjective to 0>>
 - Now the memories are returning. They are becoming more and more clear. In fact, you can remember all the suggestions that were presented.
 [[Continue|Calculate_Score]]
-
-[[You can remember the test suggestions|Test_Amnesia_Troubleshooting]]
-
-:: Test_Amnesia_Troubleshooting
-<<set $test_amnesia_attempts to $test_amnesia_attempts + 1>>
-If you're having trouble forgetting the test suggestions, try these techniques:
-• Focus on physical sensations like the tingling in your feet or body. Keep your mind distracted by focusing on these feelings rather than the suggestions.
-• Imagine the suggestions written on a chalkboard, and then picture yourself erasing the board completely. Each time a memory comes back, visualize it being wiped away again.
-• Remember, you're not supposed to try too hard—just let the memories fade naturally as you concentrate on other things.
-
-[[Try Again|Test_Amnesia_Retry]]
-[[Continue|Calculate_Score]]
-
-:: Test_Amnesia_Retry
-<<if $test_amnesia_attempts < 2>>
-Let's try the test amnesia suggestion one more time. Remember to focus on letting the memories of the test suggestions fade away naturally.
-
-[[You cannot remember the test suggestions|Calculate_Score]]
-<<set $test_amnesia_score to $test_amnesia_score + 1>>
-
-[[You can remember the test suggestions|Calculate_Score]]
-<<else>>
-- Now the memories are returning. They are becoming more and more clear. In fact, you can remember all the suggestions that were presented.
-[[Continue|Calculate_Score]]
-<</if>>
-
 :: Calculate_Score
 <<set $total_training_score to $arm_rising_score + $hand_lock_score + $book_hallucination_score + $amnesia_score>>
 <<set $total_training_subjective to $arm_rising_subjective + $hand_lock_subjective + $book_hallucination_subjective + $amnesia_subjective>>
@@ -626,3 +743,5 @@ Your total subjective score: <<print $total_subjective>> out of 24.
 This score represents your current level of hypnotic responsiveness. Remember, hypnotic responsiveness is a skill that can be improved with practice.
 
 [[End session|END]]
+:: END
+Thank you for participating in this demo.
