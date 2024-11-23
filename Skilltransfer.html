@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transfer Framework</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="bg-white p-8 rounded-lg">
+        <h2 class="text-3xl font-bold text-center mb-2">Transfer of Learning Framework</h2>
+        <p class="text-center text-gray-600 mb-6">How practice design influences skill transfer to competition</p>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6" id="transferLevels">
+            <!-- Transfer levels will be inserted here by JavaScript -->
+        </div>
+
+        <div class="bg-gray-50 p-4 rounded-lg">
+            <h3 class="font-bold text-gray-800 mb-3">Practice Design Guidelines</h3>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4" id="practiceDesign">
+                <!-- Practice design guidelines will be inserted here by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const transferLevels = [
+            {
+                level: "Near Transfer",
+                color: "bg-green-500",
+                description: "Direct application to very similar situations",
+                specificity: "High Specificity",
+                example: {
+                    title: "Tennis Serve",
+                    practice: "Serve practice with match constraints",
+                    transfer: "Match serving situations",
+                    principles: "Same technique, position, target"
+                }
+            },
+            {
+                level: "Medium Transfer",
+                color: "bg-blue-500",
+                description: "Application to similar but varied contexts",
+                specificity: "Moderate Variation",
+                example: {
+                    title: "Football Attacking",
+                    practice: "3v2 possession games",
+                    transfer: "Full match attacking play",
+                    principles: "Similar decisions, different space"
+                }
+            },
+            {
+                level: "Far Transfer",
+                color: "bg-purple-500",
+                description: "Application across different contexts",
+                specificity: "High Variation",
+                example: {
+                    title: "Tactical Awareness",
+                    practice: "Basketball spacing drills",
+                    transfer: "Football positioning",
+                    principles: "Space creation concepts"
+                }
+            }
+        ];
+
+        const practiceDesign = {
+            near: [
+                "Match exact competition demands",
+                "Include relevant pressure",
+                "Use competition equipment",
+                "Replicate time constraints"
+            ],
+            medium: [
+                "Preserve core task elements",
+                "Vary practice conditions",
+                "Scale space and time",
+                "Modify player numbers"
+            ],
+            far: [
+                "Focus on shared principles",
+                "Train decision making",
+                "Develop pattern recognition",
+                "Build strategic thinking"
+            ]
+        };
+
+        // Render transfer levels
+        document.getElementById('transferLevels').innerHTML = transferLevels.map((level, index) => `
+            <div class="${level.color} bg-opacity-10 p-4 rounded-lg">
+                <div class="flex items-start justify-between mb-3">
+                    <div>
+                        <h3 class="text-lg font-bold ${level.color.replace('bg-', 'text-')} mb-1">
+                            ${level.level}
+                        </h3>
+                        <p class="text-gray-600 text-xs">${level.description}</p>
+                    </div>
+                    <div class="${level.color} text-white px-2 py-1 rounded-full text-xs">
+                        ${level.specificity}
+                    </div>
+                </div>
+
+                <div class="bg-white p-3 rounded shadow-sm">
+                    <h4 class="font-semibold text-sm mb-3">${level.example.title}</h4>
+                    <div class="space-y-3">
+                        <div>
+                            <div class="flex items-center gap-2 mb-1">
+                                <i data-lucide="dumbbell" class="w-4 h-4 text-gray-400"></i>
+                                <div class="font-medium text-xs">Practice Context</div>
+                            </div>
+                            <div class="text-xs text-gray-600 ml-6">${level.example.practice}</div>
+                        </div>
+                        <div>
+                            <div class="flex items-center gap-2 mb-1">
+                                <i data-lucide="target" class="w-4 h-4 text-gray-400"></i>
+                                <div class="font-medium text-xs">Transfer Context</div>
+                            </div>
+                            <div class="text-xs text-gray-600 ml-6">${level.example.transfer}</div>
+                        </div>
+                        <div>
+                            <div class="flex items-center gap-2 mb-1">
+                                <i data-lucide="arrow-right-circle" class="w-4 h-4 text-gray-400"></i>
+                                <div class="font-medium text-xs">Transfer Principle</div>
+                            </div>
+                            <div class="text-xs text-gray-600 ml-6">${level.example.principles}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `).join('');
+
+        // Render practice design guidelines
+        document.getElementById('practiceDesign').innerHTML = `
+            <div class="bg-white p-3 rounded shadow-sm">
+                <h4 class="font-semibold text-green-600 text-sm mb-2">Near Transfer Design</h4>
+                <ul class="text-xs space-y-1">
+                    ${practiceDesign.near.map(point => `<li>• ${point}</li>`).join('')}
+                </ul>
+            </div>
+            <div class="bg-white p-3 rounded shadow-sm">
+                <h4 class="font-semibold text-blue-600 text-sm mb-2">Medium Transfer Design</h4>
+                <ul class="text-xs space-y-1">
+                    ${practiceDesign.medium.map(point => `<li>• ${point}</li>`).join('')}
+                </ul>
+            </div>
+            <div class="bg-white p-3 rounded shadow-sm">
+                <h4 class="font-semibold text-purple-600 text-sm mb-2">Far Transfer Design</h4>
+                <ul class="text-xs space-y-1">
+                    ${practiceDesign.far.map(point => `<li>• ${point}</li>`).join('')}
+                </ul>
+            </div>
+        `;
+
+        // Initialize Lucide icons
+        lucide.createIcons();
+    </script>
+</body>
+</html>
