@@ -68,3 +68,7 @@ Common modes of learning:
 * Learning through instruction
 * Learning through reasoning
 
+-----
+
+Some [principles of psychological techniques for sports skill acquisition](sport skill psychology.md) are reminiscent of hypnotic techniques
+
