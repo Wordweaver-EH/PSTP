@@ -70,5 +70,5 @@ Common modes of learning:
 
 -----
 
-Some [principles of psychological techniques for sports skill acquisition](sport skill psychology.md) are reminiscent of hypnotic techniques
+Some [principles of psychological techniques for sports skill acquisition]([sport skill psychology.md](https://github.com/Wordweaver-EH/PSTP/blob/main/sportskillpsychology.md)) are reminiscent of hypnotic techniques
 
