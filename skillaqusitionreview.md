@@ -62,9 +62,10 @@ Training principles according to Mike Israetel (focused on sport science):
 
 Common modes of learning:
 
-* Classical or Pavlovian Conditioning
-* Operant or Instrumental Conditioning
-* Learning through immitation
-* Learning through instruction
-* Learning through reasoning
+* Classical or Pavlovian Conditioning (Direct Experience)
+* Operant or Instrumental Conditioning (Direct Experience)
+* Learning through immitation (Social Learning)
+* Learning through instruction (Social Learning)
+* Learning through reasoning (Cognitive Learning)
 
+Skill acquisition is a process of adaptation, and in the behaviourist tradition, a process of shaping. We can start from a smaller skill and build up to a more complex skill. This can be thought of as a form of [skill transfer](https://github.com/Wordweaver-EH/PSTP/blob/main/skilltransfer.html).
